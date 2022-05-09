@@ -1,2 +1,2 @@
 # odin-recipes
-This is a HTML Lasagne Recipe
+This is a HTML Recipe collection
